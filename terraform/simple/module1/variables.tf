@@ -1,0 +1,3 @@
+variable "juntatrocola" {
+  type = string
+}
